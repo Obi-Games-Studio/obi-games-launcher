@@ -1,0 +1,51 @@
+[
+  {
+    "id": "redline-ashfall",
+    "title": "Redline: Ashfall",
+    "tag": "Survival",
+    "blurb": "Cross into the REDLINE—an unforgiving, persistent open-world warzone where tactical precision meets raw survival. Blending the emergent base-building and territorial warfare of Rust, the vast, unpredictable open-world tension of DayZ, and the high-stakes gunplay and extraction mechanics of Escape from Tarkov, REDLINE pushes realism and player-driven survival to the limit.\n\nEnter hostile sectors alone or with a squad to scavenge high-tier weaponry, medical supplies, and rare components. Every engagement is governed by authentic milsim mechanics—realistic ballistics, modular weapon customization, stamina management, and a punishing health system where a single misstep can cost you everything you brought in.",
+    "image": "/redline.jpg",
+    "cover": ["#1a0505", "#fe4c3c"],
+    "exe": ""
+  },
+  {
+    "id": "night-circuit",
+    "title": "Night Circuit",
+    "tag": "Racing",
+    "blurb": "One lap, no headlights, the pack right behind you.",
+    "cover": ["#12080a", "#8c1c24"],
+    "exe": ""
+  },
+  {
+    "id": "ash-cathedral",
+    "title": "Ash Cathedral",
+    "tag": "Adventure",
+    "blurb": "A ruined nave, a locked choir, and a fire that never goes out.",
+    "cover": ["#1a0b0b", "#c4553a"],
+    "exe": ""
+  },
+  {
+    "id": "glass-harbor",
+    "title": "Glass Harbor",
+    "tag": "Story",
+    "blurb": "Boats made of glass, and a tide that remembers your name.",
+    "cover": ["#10080a", "#ff7a6e"],
+    "exe": ""
+  },
+  {
+    "id": "iron-orchard",
+    "title": "Iron Orchard",
+    "tag": "Strategy",
+    "blurb": "Plant steel, harvest a skyline, hold the valley.",
+    "cover": ["#0c0c0c", "#a32020"],
+    "exe": ""
+  },
+  {
+    "id": "velvet-static",
+    "title": "Velvet Static",
+    "tag": "Shooter",
+    "blurb": "Short range, loud rooms, and a signal that will not die.",
+    "cover": ["#1b0508", "#ff2a3c"],
+    "exe": ""
+  }
+]
